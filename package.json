@@ -1,0 +1,24 @@
+{
+  "name": "fixedstreamreader",
+  "version": "1.0.0",
+  "description": "A stream parser that breaks fixed-sized text data into arrays, asynchronously.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danshardware/fixedStreamReader.git"
+  },
+  "keywords": [
+    "stream",
+    "text",
+    "fixed-width"
+  ],
+  "author": "Dan Afonso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danshardware/fixedStreamReader/issues"
+  },
+  "homepage": "https://github.com/danshardware/fixedStreamReader#readme"
+}
