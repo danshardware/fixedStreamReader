@@ -1,0 +1,8 @@
+This file conains 8 lines of varying size to test
+the functionality
+of the
+
+Line reading functionality
+
+It includes mutliple blank lines but doesn't end with
+one
