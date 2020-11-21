@@ -25,7 +25,7 @@ const stream = require('stream');
 /**
  * TODO:
  * - [ ] Better Error handling
- * - [ ] better define what gets trimmed off the end 
+ * - [ ] better define what gets trimmed off the end
  * - [ ] Be able to handle a URL or file name
  */
 
